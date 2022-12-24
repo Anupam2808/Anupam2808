@@ -4,8 +4,6 @@
 - 📫 Reach Me -: anupammasih288@gmail.com
 - 🌐 Website -: https://anupam2808.github.io/anupammasih.github.io
 - 📝 Medium Article -: https://medium.com/@AnupamSimonMasih
--     
-
 
 <!---
 Anupam2808/Anupam2808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
